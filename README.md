@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mattdavis5
-- 👀 I’m interested in IT Infrastructure, Security, and learning programming.
+- 👀 I’m interested in IT Infrastructure, Security, Automation, and Scripting.
 
 <!---
 mattdavis5/mattdavis5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
